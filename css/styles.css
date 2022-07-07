@@ -63,6 +63,10 @@ a:hover {
   padding: 50px 0 20px;
 }
 
+.footer-link{
+  font-size: 20px;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
@@ -90,17 +94,6 @@ a:hover {
   padding: 20px 0;
 }
 
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 40px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 250px;
-  bottom: 300px;
-}
 
 .code-img {
   width: 25%;
